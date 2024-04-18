@@ -1,0 +1,1 @@
+CMakeLists.txt not found in /home/patrick/Documents/Seafile/SoSe_2024/Algorithmen für Programmierwettberwerbe/APW Select CMakeLists.txt
