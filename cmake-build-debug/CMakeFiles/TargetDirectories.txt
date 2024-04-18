@@ -1,2 +1,0 @@
-/home/patrick/Documents/Seafile/SoSe_2024/Algorithmen für Programmierwettberwerbe/APW/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/patrick/Documents/Seafile/SoSe_2024/Algorithmen für Programmierwettberwerbe/APW/cmake-build-debug/CMakeFiles/rebuild_cache.dir
